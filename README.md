@@ -58,7 +58,7 @@ php artisan serve
 ### ⚙️ Instalación
 ```bash
 # Entrar al directorio del microservicio
-cd divisas
+cd microservicio_divisas
 
 # Crear y activar entorno virtual (opcional)
 python -m venv venv
@@ -86,7 +86,7 @@ python app.py
 1. Configurar y levantar **MySQL** y **MongoDB**.  
 2. Ejecutar el microservicio de seguridad:  
    ```bash
-   cd seguridad
+   cd microservicio_seguridad
    php artisan serve
    ```
 3. Ejecutar el microservicio de divisas:  
