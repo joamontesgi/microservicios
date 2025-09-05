@@ -22,7 +22,7 @@ Este proyecto está compuesto por dos microservicios principales:
 ### ⚙️ Instalación
 ```bash
 # Entrar al directorio del microservicio
-cd seguridad
+cd microservicio_seguridad
 
 # Instalar dependencias
 composer install
@@ -91,6 +91,6 @@ python app.py
    ```
 3. Ejecutar el microservicio de divisas:  
    ```bash
-   cd divisas
+   cd microservicio_divisas
    python app.py
    ```
